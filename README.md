@@ -1,4 +1,5 @@
 #### 文章
+- [AutoxJS脚本保姆级教程](https://juejin.cn/post/7280837735613693991)
 
 #### JS 库
 - [AutoX](https://github.com/kkevsekk1/AutoX)
