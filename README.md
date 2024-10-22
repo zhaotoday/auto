@@ -1,3 +1,6 @@
+####
+- [Android 必备知识](https://developer.android.google.cn/get-started?hl=zh-cn)
+
 #### 文章
 - [AutoxJS脚本保姆级教程](https://juejin.cn/post/7280837735613693991)
 - [从0到1，教你如何使用Tasker+Autojs实现自动化操作](https://hunter1024.blog.csdn.net/article/details/120820821)
