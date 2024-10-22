@@ -6,6 +6,7 @@
 - [从0到1，教你如何使用Tasker+Autojs实现自动化操作](https://hunter1024.blog.csdn.net/article/details/120820821)
 - [webpack-autojs](https://github.com/kkevsekk1/webpack-autojs)
 - [UI Automator Viewer 的使用](https://blog.csdn.net/qq_64314976/article/details/131390818)
+- [五分钟快速使用javascript实现app自动化脚本](https://juejin.cn/post/7301242196887306249)
 
 #### JS 库
 - [AutoX](https://github.com/kkevsekk1/AutoX)
