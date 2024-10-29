@@ -14,6 +14,7 @@
 
 #### 开源
 - [AutoX](https://github.com/kkevsekk1/AutoX)
+- [AutoJs6](https://github.com/SuperMonster003/AutoJs6)
 - [ATX](https://github.com/NetEaseGame/ATX)
 - [Assists](https://github.com/ven-coder/Assists)
 - [gkd](https://github.com/gkd-kit/gkd)
