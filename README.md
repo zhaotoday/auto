@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/a6eb1479-2834-44f4-9dbc-aaa4afcbd576)#### 文档
+#### 文档
 - [Android 必备知识](https://developer.android.google.cn/get-started?hl=zh-cn)
 - [Frida 官方手册 中文版 ( 机翻+人翻 )](https://blog.csdn.net/freeking101/article/details/136944696)
 
