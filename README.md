@@ -23,3 +23,4 @@
 - [Rhino](https://github.com/mozilla/rhino)
 - [Yyds.Auto](https://yydsxx.com/)
 - [hamibot](https://github.com/hamibot/hamibot)
+- [ctrl.js](https://ctrljs.ikaiwei.com/ctrljsapi/#/)
