@@ -19,3 +19,4 @@
 #### 相关
 - [安卓模拟器](https://www.sixyin.com/757.html)
 - [Rhino](https://github.com/mozilla/rhino)
+- [Yyds.Auto](https://yydsxx.com/)
