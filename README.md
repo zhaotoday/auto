@@ -1,4 +1,4 @@
-#### 文档
+![image](https://github.com/user-attachments/assets/a6eb1479-2834-44f4-9dbc-aaa4afcbd576)#### 文档
 - [Android 必备知识](https://developer.android.google.cn/get-started?hl=zh-cn)
 - [Frida 官方手册 中文版 ( 机翻+人翻 )](https://blog.csdn.net/freeking101/article/details/136944696)
 
@@ -14,6 +14,7 @@
 - [AutoX](https://github.com/kkevsekk1/AutoX)
 - [ATX](https://github.com/NetEaseGame/ATX)
 - [Assists](https://github.com/ven-coder/Assists)
+- [gkd](https://github.com/gkd-kit/gkd)
 
 #### 相关
 - [安卓模拟器](https://www.sixyin.com/757.html)
