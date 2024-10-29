@@ -9,6 +9,7 @@
 - [UI Automator Viewer 的使用](https://blog.csdn.net/qq_64314976/article/details/131390818)
 - [五分钟快速使用javascript实现app自动化脚本](https://juejin.cn/post/7301242196887306249)
 - [Android逆向之hook框架frida篇](https://www.jianshu.com/p/ca8381d3e094)
+- [AccessibilityService基础](https://juejin.cn/post/7169033859894345765)
 
 #### 开源
 - [AutoX](https://github.com/kkevsekk1/AutoX)
