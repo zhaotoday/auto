@@ -18,7 +18,7 @@
 - [Assists](https://github.com/ven-coder/Assists)
 - [gkd](https://github.com/gkd-kit/gkd)
 
-#### 相关
+#### 竞品
 - [安卓模拟器](https://www.sixyin.com/757.html)
 - [Rhino](https://github.com/mozilla/rhino)
 - [Yyds.Auto](https://yydsxx.com/)
