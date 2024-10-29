@@ -13,6 +13,7 @@
 #### 开源
 - [AutoX](https://github.com/kkevsekk1/AutoX)
 - [ATX](https://github.com/NetEaseGame/ATX)
+- [Assists](https://github.com/ven-coder/Assists)
 
 #### 相关
 - [安卓模拟器](https://www.sixyin.com/757.html)
