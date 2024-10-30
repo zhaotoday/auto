@@ -31,3 +31,6 @@
 
 #### 其他
 - [robotjs](https://github.com/octalmage/robotjs)
+
+#### RPA
+- [RPA自动化控制网站或软件的几种实现思路](https://juejin.cn/post/7342391308614778892)
