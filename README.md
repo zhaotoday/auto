@@ -19,10 +19,15 @@
 - [Assists](https://github.com/ven-coder/Assists)
 - [gkd](https://github.com/gkd-kit/gkd)
 
+#### 工具
+- [安卓模拟器](https://www.sixyin.com/757.html)
+
 #### 竞品
 - [Auto.js Pro](https://www.wuyunai.com/docs/)
-- [安卓模拟器](https://www.sixyin.com/757.html)
 - [Rhino](https://github.com/mozilla/rhino)
 - [Yyds.Auto](https://yydsxx.com/)
 - [hamibot](https://github.com/hamibot/hamibot)
 - [ctrl.js](https://ctrljs.ikaiwei.com/ctrljsapi/#/)
+
+#### 其他
+- [robotjs](https://github.com/octalmage/robotjs)
