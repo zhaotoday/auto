@@ -34,5 +34,6 @@
 
 #### RPA
 - [RPA自动化控制网站或软件的几种实现思路](https://juejin.cn/post/7342391308614778892)
+- [火爆的RPA到底是什么？最后推荐5款RPA自动化神器！](https://openatomworkshop.csdn.net/6645a937b12a9d168eb6ba4c.html)
 - [Ui.Vision RPA](https://github.com/A9T9/RPA)
   
