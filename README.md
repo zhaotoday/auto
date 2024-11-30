@@ -1,6 +1,7 @@
 #### 文档
 - [Android 必备知识](https://developer.android.google.cn/get-started?hl=zh-cn)
 - [Frida 官方手册 中文版 ( 机翻+人翻 )](https://blog.csdn.net/freeking101/article/details/136944696)
+- [Tasker 百科](https://taskerm.com/2021/07/22/tasker-baike)
 
 #### 文章
 - [AutoxJS脚本保姆级教程](https://juejin.cn/post/7280837735613693991)
@@ -11,7 +12,7 @@
 - [Android逆向之hook框架frida篇](https://www.jianshu.com/p/ca8381d3e094)
 - [AccessibilityService基础](https://juejin.cn/post/7169033859894345765)
 - [Android自动化-如何获取视图元素属性？](https://juejin.cn/post/7363519735055876122)
-- [Tasker 百科](https://taskerm.com/2021/07/22/tasker-baike)
+- [开机自启 ADB WiFi](https://taskerm.com/2024/10/08/enable_adb_wifi_on_device_boot)
 
 #### 开源
 - [AutoX](https://github.com/kkevsekk1/AutoX)
