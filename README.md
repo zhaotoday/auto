@@ -11,6 +11,7 @@
 - [Android逆向之hook框架frida篇](https://www.jianshu.com/p/ca8381d3e094)
 - [AccessibilityService基础](https://juejin.cn/post/7169033859894345765)
 - [Android自动化-如何获取视图元素属性？](https://juejin.cn/post/7363519735055876122)
+- [Tasker 百科](https://taskerm.com/2021/07/22/tasker-baike)
 
 #### 开源
 - [AutoX](https://github.com/kkevsekk1/AutoX)
