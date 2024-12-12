@@ -37,6 +37,7 @@
 #### 其他
 - [robotjs](https://github.com/octalmage/robotjs)
 - [QtScrcpy](https://github.com/barry-ran/QtScrcpy/blob/dev/README_zh.md)
+- [LocalSend](https://localsend.org/zh-CN)
 
 #### RPA
 - [RPA自动化控制网站或软件的几种实现思路](https://juejin.cn/post/7342391308614778892)
