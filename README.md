@@ -28,6 +28,7 @@
 
 #### 工具
 - [安卓模拟器](https://www.sixyin.com/757.html)
+- [adb_kit](https://github.com/nightmare-space/adb_kit)
 
 #### 竞品
 - [Auto.js Pro](https://www.wuyunai.com/docs/)
