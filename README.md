@@ -14,6 +14,7 @@
 - [Android自动化-如何获取视图元素属性？](https://juejin.cn/post/7363519735055876122)
 - [开机自启 ADB WiFi](https://taskerm.com/2024/10/08/enable_adb_wifi_on_device_boot)
 - [【杰哥带你玩转Android自动化】学穿：ADB](https://juejin.cn/post/7147631074183479303)
+- [【杰哥带你玩转Android自动化】AccessibilityService基础](https://juejin.cn/post/7169033859894345765)
 
 #### 视频教程
 - [Tasker 简介](https://www.bilibili.com/video/BV1aa411S7at/)
