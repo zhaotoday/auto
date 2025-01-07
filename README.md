@@ -28,6 +28,7 @@
 
 #### 工具
 - [安卓模拟器](https://www.sixyin.com/757.html)
+- [夜神模拟器](https://www.yeshen.com/)
 - [adb_kit](https://github.com/nightmare-space/adb_kit)
 
 #### 竞品
