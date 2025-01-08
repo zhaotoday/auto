@@ -15,6 +15,7 @@
 - [开机自启 ADB WiFi](https://taskerm.com/2024/10/08/enable_adb_wifi_on_device_boot)
 - [【杰哥带你玩转Android自动化】学穿：ADB](https://juejin.cn/post/7147631074183479303)
 - [【杰哥带你玩转Android自动化】AccessibilityService基础](https://juejin.cn/post/7169033859894345765)
+- [安卓逆向这档事](https://github.com/ZJ595/AndroidReverse)
 
 #### 视频教程
 - [Tasker 简介](https://www.bilibili.com/video/BV1aa411S7at/)
