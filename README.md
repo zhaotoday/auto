@@ -3,6 +3,7 @@
 - [Frida 官方手册 中文版 ( 机翻+人翻 )](https://blog.csdn.net/freeking101/article/details/136944696)
 - [Tasker 百科](https://taskerm.com/2021/07/22/tasker-baike)
 - [使用 UI Automator 编写自动化测试](https://developer.android.com/training/testing/other-components/ui-automator?hl=zh-cn)
+- [WebdriverIO](https://webdriver.io/docs/api/)
 
 #### 文章
 - [AutoxJS脚本保姆级教程](https://juejin.cn/post/7280837735613693991)
