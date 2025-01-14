@@ -18,6 +18,7 @@
 - [【杰哥带你玩转Android自动化】学穿：ADB](https://juejin.cn/post/7147631074183479303)
 - [【杰哥带你玩转Android自动化】AccessibilityService基础](https://juejin.cn/post/7169033859894345765)
 - [安卓逆向这档事](https://github.com/ZJ595/AndroidReverse)
+- [前端工程师用Node.js + Appium实现APP自动化](https://blog.csdn.net/nihaojob123/article/details/132059729)
 
 #### 视频教程
 - [Tasker 简介](https://www.bilibili.com/video/BV1aa411S7at/)
