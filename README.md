@@ -44,6 +44,7 @@
 - [hamibot](https://github.com/hamibot/hamibot)
 - [ctrl.js](https://ctrljs.ikaiwei.com/ctrljsapi/#/)
 - [冰狐智能辅助](https://www.aznfz.com/)
+- [android-bot](https://github.com/automan-bot/android-bot)
 
 #### 其他
 - [nut.js](https://github.com/nut-tree/nut.js)
