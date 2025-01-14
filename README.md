@@ -30,6 +30,7 @@
 - [ATX](https://github.com/NetEaseGame/ATX)
 - [Assists](https://github.com/ven-coder/Assists)
 - [gkd](https://github.com/gkd-kit/gkd)
+- [appium](https://github.com/appium/appium)
 
 #### 工具
 - [安卓模拟器](https://www.sixyin.com/757.html)
