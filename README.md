@@ -49,6 +49,7 @@
 #### 其他
 - [nut.js](https://github.com/nut-tree/nut.js)
 - [robotjs](https://github.com/octalmage/robotjs)
+- [scrcpy](https://github.com/Genymobile/scrcpy)
 - [QtScrcpy](https://github.com/barry-ran/QtScrcpy/blob/dev/README_zh.md)
 - [LocalSend](https://localsend.org/zh-CN)
 
