@@ -36,6 +36,7 @@
 - [安卓模拟器](https://www.sixyin.com/757.html)
 - [夜神模拟器](https://www.yeshen.com/)
 - [adb_kit](https://github.com/nightmare-space/adb_kit)
+- [genymotion](https://www.genymotion.com/)
 
 #### 竞品
 - [Auto.js Pro](https://www.wuyunai.com/docs/)
