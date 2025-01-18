@@ -36,6 +36,7 @@
 - [docker-android](https://github.com/budtmo/docker-android)
 - [appium-docker-android](https://github.com/appium/appium-docker-android)
 - [AutoScriptBase](https://github.com/TonyJiangWJ/AutoScriptBase)
+- [WebSocketWidgetInspector](https://github.com/TonyJiangWJ/WebSocketWidgetInspector)
 
 #### 工具
 - [安卓模拟器](https://www.sixyin.com/757.html)
