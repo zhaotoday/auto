@@ -38,6 +38,7 @@
 - [AutoScriptBase](https://github.com/TonyJiangWJ/AutoScriptBase)
 - [WebSocketWidgetInspector](https://github.com/TonyJiangWJ/WebSocketWidgetInspector)
 - [robot](https://github.com/yooge/robot)
+- [robot-tools](https://www.npmjs.com/package/robot-tools)
 
 #### 工具
 - [安卓模拟器](https://www.sixyin.com/757.html)
