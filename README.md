@@ -24,6 +24,7 @@
 
 #### 视频教程
 - [Autojs从入门到精通](https://www.bilibili.com/video/BV1LF411U7GS)
+- [常用知识点讲解 脚本开发经验分享](https://www.bilibili.com/video/BV17h4y197Lz/)
 - [Tasker 简介](https://www.bilibili.com/video/BV1aa411S7at/)
 
 #### 开源
