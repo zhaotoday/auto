@@ -26,6 +26,7 @@
 - [Autojs从入门到精通](https://www.bilibili.com/video/BV1LF411U7GS)
 - [常用知识点讲解 脚本开发经验分享](https://www.bilibili.com/video/BV17h4y197Lz/)
 - [Tasker 简介](https://www.bilibili.com/video/BV1aa411S7at/)
+- [autojs云控脚本开发 远程控制手机脚本 websocket swoole 连接服务器](https://www.bilibili.com/video/BV1Bv41167d9)
 
 #### 开源
 - [AutoX](https://github.com/kkevsekk1/AutoX)
