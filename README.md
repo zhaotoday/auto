@@ -27,6 +27,7 @@
 - [常用知识点讲解 脚本开发经验分享](https://www.bilibili.com/video/BV17h4y197Lz/)
 - [Tasker 简介](https://www.bilibili.com/video/BV1aa411S7at/)
 - [autojs云控脚本开发 远程控制手机脚本 websocket swoole 连接服务器](https://www.bilibili.com/video/BV1Bv41167d9)
+- [RPA脚本开发 机器人流程自动化 自动化办公脚本开发实战](https://www.bilibili.com/video/BV1Hj411j7ni)
 
 #### 开源
 - [AutoX](https://github.com/kkevsekk1/AutoX)
