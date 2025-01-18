@@ -42,6 +42,7 @@
 - [robot](https://github.com/yooge/robot)
 - [robot-tools](https://www.npmjs.com/package/robot-tools)
 - [autojs-web-control](https://github.com/zrk1993/autojs-web-control)
+- [autojs-web-control](https://github.com/shonngithub/autojs-web-control)
 - [autojs_release](https://github.com/zrk1993/autojs_release)
 
 #### 工具
