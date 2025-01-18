@@ -4,6 +4,7 @@
 - [Tasker 百科](https://taskerm.com/2021/07/22/tasker-baike)
 - [使用 UI Automator 编写自动化测试](https://developer.android.com/training/testing/other-components/ui-automator?hl=zh-cn)
 - [WebdriverIO](https://webdriver.io/docs/api/)
+- [FireRPA LAMDA](https://device-farm.com/doc/index.html)
 
 #### 文章
 - [AutoxJS脚本保姆级教程](https://juejin.cn/post/7280837735613693991)
