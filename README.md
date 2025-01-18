@@ -39,6 +39,7 @@
 - [WebSocketWidgetInspector](https://github.com/TonyJiangWJ/WebSocketWidgetInspector)
 - [robot](https://github.com/yooge/robot)
 - [robot-tools](https://www.npmjs.com/package/robot-tools)
+- [autojs-web-control](https://github.com/zrk1993/autojs-web-control)
 - [autojs_release](https://github.com/zrk1993/autojs_release)
 
 #### 工具
