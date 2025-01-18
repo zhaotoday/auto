@@ -23,6 +23,7 @@
 -[移动端（APP）自动化脚本工具详细列举（autojs、easyclick、hamibot、ctrljs ...）](https://juejin.cn/post/7286787235360931852)
 
 #### 视频教程
+- [Autojs从入门到精通](https://www.bilibili.com/video/BV1LF411U7GS)
 - [Tasker 简介](https://www.bilibili.com/video/BV1aa411S7at/)
 
 #### 开源
