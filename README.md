@@ -30,6 +30,7 @@
 - [RPA脚本开发 机器人流程自动化 自动化办公脚本开发实战](https://www.bilibili.com/video/BV1Hj411j7ni)
 
 #### 开源
+- [DeviceFarmer/stf](https://github.com/DeviceFarmer/stf)
 - [AutoX](https://github.com/kkevsekk1/AutoX)
 - [AutoJs6](https://github.com/SuperMonster003/AutoJs6)
 - [ATX](https://github.com/NetEaseGame/ATX)
