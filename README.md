@@ -22,6 +22,7 @@
 - [前端工程师用Node.js + Appium实现APP自动化](https://blog.csdn.net/nihaojob123/article/details/132059729)
 -[移动端（APP）自动化脚本工具详细列举（autojs、easyclick、hamibot、ctrljs ...）](https://juejin.cn/post/7286787235360931852)
 - [搭建设备管理平台-STF(Device Farmer)](https://cloud.tencent.com/developer/article/2057139)
+- [移动设备管理平台的搭建（基于STF/ATXServer2）](https://zhuanlan.zhihu.com/p/341777786)
 
 #### 视频教程
 - [Autojs从入门到精通](https://www.bilibili.com/video/BV1LF411U7GS)
