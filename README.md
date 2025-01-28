@@ -32,6 +32,7 @@
 - [Tasker 简介](https://www.bilibili.com/video/BV1aa411S7at/)
 - [autojs云控脚本开发 远程控制手机脚本 websocket swoole 连接服务器](https://www.bilibili.com/video/BV1Bv41167d9)
 - [RPA脚本开发 机器人流程自动化 自动化办公脚本开发实战](https://www.bilibili.com/video/BV1Hj411j7ni)
+- [开源免费的 Browser Use](https://www.bilibili.com/video/BV1z5fJY3ELX/)
 
 #### 开源
 - [DeviceFarmer/stf](https://github.com/DeviceFarmer/stf)
