@@ -58,6 +58,7 @@
 - [夜神模拟器](https://www.yeshen.com/)
 - [adb_kit](https://github.com/nightmare-space/adb_kit)
 - [genymotion](https://www.genymotion.com/)
+- [aya](https://aya.liriliri.io/zh/)
 
 #### 竞品
 - [Auto.js Pro](https://www.wuyunai.com/docs/)
