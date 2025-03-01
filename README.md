@@ -25,6 +25,7 @@
 - [移动设备管理平台的搭建（基于STF/ATXServer2）](https://zhuanlan.zhihu.com/p/341777786)
 - [【Android笔记】Android常见知识](https://juejin.cn/post/7237366474472423483)
 - [多设备自动化测试](https://blog.csdn.net/qq_42264956/article/details/126918137)
+- [chrome插件开发-自动化脚本(1)](https://juejin.cn/post/6970924164592959518)
 
 #### 视频教程
 - [Autojs从入门到精通](https://www.bilibili.com/video/BV1LF411U7GS)
