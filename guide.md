@@ -12,3 +12,6 @@ const element = driver.findElement(
 );
 ```
 - 使用 ID 查找元素，也会造成碰撞（误查找），特别是当兼容多个 APP 版本时；
+
+#### 排查问题
+- 提供截图、运行 ID、日志；
