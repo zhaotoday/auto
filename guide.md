@@ -11,4 +11,4 @@ const element = driver.findElement(
     resourceId === "y" && className === "x" && text === "z",
 );
 ```
-- 使用 ID 查找元素时应尽量配合其他属性；
+- 同个页面可能有多个元素 ID 是相同的，不同页面也可能存在相同 ID 的元素；
