@@ -7,12 +7,34 @@
 1. 元素定位策略
 - 推荐使用多属性组合定位元素，提高定位准确性：
 ```javascript
-const element = driver.findElement(
+const element = element.find(
   ({ resourceId, className, text }) =>
     resourceId === "y" && className === "x" && text === "z",
 );
 ```
-- 注意：仅使用 ID 定位可能导致误匹配，尤其在多 APP 版本兼容场景下
+- 仅使用 ID 定位可能导致误匹配，尤其在多 APP 版本兼容场景下；
+- 部分通用异常处理，可以查找和点击元素失败时触发：
+```typescript
+// shared/element.ts
+
+export const find = (
+  predicate: ElementPredicate,
+  options: {
+    tryTimes: number;
+    wait: number;
+    onError: () => void;
+  },
+) => {};
+
+export const click = (
+  predicate: ElementPredicate,
+  options: {
+    tryTimes: number;
+    wait: number;
+    onError: () => void;
+  },
+) => {};
+```
 
 #### 问题排查指引
 - 需提供以下信息：
