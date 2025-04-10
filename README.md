@@ -36,6 +36,7 @@
 - [开源免费的 Browser Use](https://www.bilibili.com/video/BV1z5fJY3ELX/)
 
 #### 开源
+- [autox-community](https://github.com/autox-community)
 - [DeviceFarmer/stf](https://github.com/DeviceFarmer/stf)
 - [AutoX](https://github.com/kkevsekk1/AutoX)
 - [AutoJs6](https://github.com/SuperMonster003/AutoJs6)
