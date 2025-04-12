@@ -73,6 +73,7 @@
 - [android-bot](https://github.com/automan-bot/android-bot)
 - [aj](https://www.ajfz.mobi/)
 - [EasyClick](https://ieasyclick.com/)
+- [AScript](https://www.ascript.cn/)
 
 #### 其他
 - [nut.js](https://github.com/nut-tree/nut.js)
