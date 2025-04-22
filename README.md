@@ -7,6 +7,7 @@
 - [FireRPA LAMDA](https://device-farm.com/doc/index.html)
 
 #### 文章
+- [轻松搭建autox.js开发环境](https://juejin.cn/post/7362788635122991119)
 - [AutoxJS脚本保姆级教程](https://juejin.cn/post/7280837735613693991)
 - [从0到1，教你如何使用Tasker+Autojs实现自动化操作](https://hunter1024.blog.csdn.net/article/details/120820821)
 - [webpack-autojs](https://github.com/kkevsekk1/webpack-autojs)
