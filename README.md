@@ -5,6 +5,7 @@
 - [使用 UI Automator 编写自动化测试](https://developer.android.com/training/testing/other-components/ui-automator?hl=zh-cn)
 - [WebdriverIO](https://webdriver.io/docs/api/)
 - [FireRPA LAMDA](https://device-farm.com/doc/index.html)
+- [AndroidDevTools](https://github.com/inferjay/AndroidDevTools)
 
 #### 文章
 - [轻松搭建autox.js开发环境](https://juejin.cn/post/7362788635122991119)
