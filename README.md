@@ -55,6 +55,7 @@
 - [autojs-web-control](https://github.com/shonngithub/autojs-web-control)
 - [autojs_release](https://github.com/zrk1993/autojs_release)
 - [vue-autojs](https://gitee.com/msdoge/vue-autojs)
+- [AutoWK](https://github.com/LoseNine/AutoWK)
 
 #### 工具
 - [安卓模拟器](https://www.sixyin.com/757.html)
