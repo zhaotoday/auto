@@ -51,11 +51,5 @@ export const click = (
   - 需提供新任务信息供开发排查
   - 同个问题可能出现在不同任务环节
 
-#### 技巧
-- 在 Android 设备上，你可以使用 adb shell 结合 am（Activity Manager）命令来通过链接（URL 或 Deep Link）跳转到指定的 APP 或页面。以下是具体方法：
-```
-adb shell am start -a android.intent.action.VIEW -d "your_link_here"
-```
-
 #### 目录结构
 #### 脚本规范
