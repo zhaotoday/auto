@@ -77,6 +77,10 @@
 - [EasyClick](https://ieasyclick.com/)
 - [AScript](https://www.ascript.cn/)
 
+#### 云手机
+- [ogcloud](https://ogphone.ogcloud.com/)
+- [引量 AI](https://www.yinliangai.com/)
+
 #### 其他
 - [nut.js](https://github.com/nut-tree/nut.js)
 - [robotjs](https://github.com/octalmage/robotjs)
