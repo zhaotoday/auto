@@ -90,6 +90,7 @@
 - [social-auto-upload](https://github.com/dreammis/social-auto-upload)
 - [social-auto-upload](https://sap-doc.nasdaddy.com/)
 - [ai-trend-publish](https://github.com/OpenAISpace/ai-trend-publish)
+- [xhs_ai_publisher](https://github.com/BetaStreetOmnis/xhs_ai_publisher)
 
 #### RPA
 - [RPA自动化控制网站或软件的几种实现思路](https://juejin.cn/post/7342391308614778892)
