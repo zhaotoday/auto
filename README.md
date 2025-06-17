@@ -82,6 +82,7 @@
 - [引量 AI](https://www.yinliangai.com/)
 
 #### 其他
+- [appium-adb](https://github.com/appium/appium-adb)
 - [YADB](https://github.com/ysbing/YADB)
 - [ya-webadb](https://github.com/yume-chan/ya-webadb)
 - [nut.js](https://github.com/nut-tree/nut.js)
