@@ -82,6 +82,7 @@
 - [引量 AI](https://www.yinliangai.com/)
 
 #### 其他
+- [ya-webadb](https://github.com/yume-chan/ya-webadb)
 - [nut.js](https://github.com/nut-tree/nut.js)
 - [robotjs](https://github.com/octalmage/robotjs)
 - [scrcpy](https://github.com/Genymobile/scrcpy)
