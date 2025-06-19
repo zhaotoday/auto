@@ -39,6 +39,7 @@
 - [开源免费的 Browser Use](https://www.bilibili.com/video/BV1z5fJY3ELX/)
 
 #### 开源
+- [uiautomator2](https://github.com/openatx/uiautomator2)
 - [autox-community](https://github.com/autox-community)
 - [DeviceFarmer/stf](https://github.com/DeviceFarmer/stf)
 - [AutoX](https://github.com/kkevsekk1/AutoX)
