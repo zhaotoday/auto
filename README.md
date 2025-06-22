@@ -44,6 +44,7 @@
 - [开源免费的 Browser Use](https://www.bilibili.com/video/BV1z5fJY3ELX/)
 
 #### 开源
+- [Airtest](https://github.com/AirtestProject/Airtest)
 - [Shizuku](https://github.com/RikkaApps/Shizuku)
 - [uiautodev](https://github.com/codeskyblue/uiautodev)
 - [hmdriver2](https://github.com/codematrixer/hmdriver2)
