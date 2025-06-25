@@ -44,6 +44,7 @@
 - [开源免费的 Browser Use](https://www.bilibili.com/video/BV1z5fJY3ELX/)
 
 #### 开源
+- [adbkit](https://github.com/devicefarmer/adbkit)
 - [docker-adb](https://github.com/DeviceFarmer/docker-adb)
 - [Airtest](https://github.com/AirtestProject/Airtest)
 - [Shizuku](https://github.com/RikkaApps/Shizuku)
