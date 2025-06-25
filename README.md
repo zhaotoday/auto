@@ -44,6 +44,7 @@
 - [开源免费的 Browser Use](https://www.bilibili.com/video/BV1z5fJY3ELX/)
 
 #### 开源
+- [Kaspresso](https://github.com/KasperskyLab/Kaspresso)
 - [adbkit](https://github.com/devicefarmer/adbkit)
 - [docker-adb](https://github.com/DeviceFarmer/docker-adb)
 - [Airtest](https://github.com/AirtestProject/Airtest)
