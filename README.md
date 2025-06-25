@@ -92,9 +92,10 @@
 - [EasyClick](https://ieasyclick.com/)
 - [AScript](https://www.ascript.cn/)
 
-#### 云手机
+#### 产品
 - [ogcloud](https://ogphone.ogcloud.com/)
 - [引量 AI](https://www.yinliangai.com/)
+- [纳基AI](https://www.naaigc.com/)
 
 #### 其他
 - [appium-adb](https://github.com/appium/appium-adb)
