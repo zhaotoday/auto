@@ -45,6 +45,7 @@
 - [开源免费的 Browser Use](https://www.bilibili.com/video/BV1z5fJY3ELX/)
 
 #### 开源
+- [adbutils](https://github.com/openatx/adbutils)
 - [AndroidViewClient](https://github.com/dtmilano/AndroidViewClient)
 - [Kaspresso](https://github.com/KasperskyLab/Kaspresso)
 - [adbkit](https://github.com/devicefarmer/adbkit)
