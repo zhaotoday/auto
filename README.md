@@ -7,6 +7,7 @@
 - [WebdriverIO](https://webdriver.io/docs/api/)
 - [FireRPA LAMDA](https://device-farm.com/doc/index.html)
 - [AndroidDevTools](https://github.com/inferjay/AndroidDevTools)
+- [awesome-adb](https://github.com/mzlogin/awesome-adb)
 
 #### 云手机
 - [Unity 云真机](https://device.unity.cn/)
