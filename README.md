@@ -13,6 +13,7 @@
 - [Unity 云真机](https://device.unity.cn/)
 
 #### 文章
+- [autojs群控，服务器远程控制手机执行脚本，轻轻松松实现5部手机，执行任意js脚本](https://blog.csdn.net/qq_29820687/article/details/140088201)
 - [Midscene.js 原理解析：8K+ Star 的 AI 驱动浏览器自动化测试框架](https://juejin.cn/post/7501878297900613671)
 - [Auto.js 入门指南：从零开始掌握自动化脚本开发](https://juejin.cn/post/7511485959554138123)
 - [Playwright vs MidScene：自动化工具“双雄”谁更适合你？](https://juejin.cn/post/7516359476564983846)
