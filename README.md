@@ -96,6 +96,7 @@
 - [aj](https://www.ajfz.mobi/)
 - [EasyClick](https://ieasyclick.com/)
 - [AScript](https://www.ascript.cn/)
+- [smartcloudscript](https://smartcloudscript.com/)
 
 #### 产品
 - [ogcloud](https://ogphone.ogcloud.com/)
