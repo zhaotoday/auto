@@ -90,6 +90,8 @@
 - [aya](https://aya.liriliri.io/zh/)
 
 #### 竞品
+- [AutoJs6](https://github.com/SuperMonster003/AutoJs6)
+- [Auto.js](https://github.com/TonyJiangWJ/Auto.js)
 - [Auto.js Pro](https://www.wuyunai.com/docs/)
 - [Rhino](https://github.com/mozilla/rhino)
 - [Yyds.Auto](https://yydsxx.com/)
