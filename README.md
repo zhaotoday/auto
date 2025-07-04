@@ -11,6 +11,7 @@
 
 #### 云手机
 - [Unity 云真机](https://device.unity.cn/)
+- [华为云手机](https://www.huaweicloud.com/product/koophone.html)
 
 #### 文章
 - [autojs群控，服务器远程控制手机执行脚本，轻轻松松实现5部手机，执行任意js脚本](https://blog.csdn.net/qq_29820687/article/details/140088201)
