@@ -105,6 +105,7 @@
 - [smartcloudscript](https://smartcloudscript.com/)
 
 #### 产品
+- [deeke](https://deeke.cn/)
 - [ogcloud](https://ogphone.ogcloud.com/)
 - [引量 AI](https://www.yinliangai.com/)
 - [纳基AI](https://www.naaigc.com/)
