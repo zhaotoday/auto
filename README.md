@@ -51,6 +51,7 @@
 - [开源免费的 Browser Use](https://www.bilibili.com/video/BV1z5fJY3ELX/)
 
 #### 开源
+- [DeekeScript](https://github.com/DeekeScript)
 - [autojs6-douyin-sendMessage](https://github.com/KID-1912/autojs6-douyin-sendMessage)
 - [adbutils](https://github.com/openatx/adbutils)
 - [AndroidViewClient](https://github.com/dtmilano/AndroidViewClient)
