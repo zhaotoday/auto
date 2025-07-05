@@ -51,6 +51,7 @@
 - [开源免费的 Browser Use](https://www.bilibili.com/video/BV1z5fJY3ELX/)
 
 #### 开源
+- [autojs-web-control-docker](https://github.com/HuaRongSAO/autojs-web-control-docker)
 - [ad-deeke](https://github.com/DeekeScript/ad-deeke)
 - [DeekeScript](https://github.com/DeekeScript)
 - [autojs6-douyin-sendMessage](https://github.com/KID-1912/autojs6-douyin-sendMessage)
