@@ -86,6 +86,7 @@
 - [AutoWK](https://github.com/LoseNine/AutoWK)
 
 #### 工具
+- [AutoJs6-VSCode-Extension](https://github.com/SuperMonster003/AutoJs6-VSCode-Extension)
 - [安卓模拟器](https://www.sixyin.com/757.html)
 - [夜神模拟器](https://www.yeshen.com/)
 - [adb_kit](https://github.com/nightmare-space/adb_kit)
