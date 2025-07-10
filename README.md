@@ -16,6 +16,7 @@
 - [WeTest 云手机](https://wetest.qq.com/products/cloud-phone)
 
 #### 文章
+- [Auto.js 入门指南（六）多线程与异步操作](https://juejin.cn/post/7512453966522433551)
 - [编译打包自己的云手机(redroid)镜像](https://juejin.cn/post/7390335741627121674)
 - [autojs群控，服务器远程控制手机执行脚本，轻轻松松实现5部手机，执行任意js脚本](https://blog.csdn.net/qq_29820687/article/details/140088201)
 - [Midscene.js 原理解析：8K+ Star 的 AI 驱动浏览器自动化测试框架](https://juejin.cn/post/7501878297900613671)
