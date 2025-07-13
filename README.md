@@ -16,6 +16,7 @@
 - [WeTest 云手机](https://wetest.qq.com/products/cloud-phone)
 
 #### 文章
+- [跨平台UI自动化-Appium](https://juejin.cn/post/7524744480499990574)
 - [APP 自动化（四）——本地 Docker 部署 Appium](https://juejin.cn/post/7393312386348957730)
 - [Auto.js 入门指南（六）多线程与异步操作](https://juejin.cn/post/7512453966522433551)
 - [编译打包自己的云手机(redroid)镜像](https://juejin.cn/post/7390335741627121674)
