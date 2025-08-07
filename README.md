@@ -54,6 +54,7 @@
 - [开源免费的 Browser Use](https://www.bilibili.com/video/BV1z5fJY3ELX/)
 
 #### 开源
+- [skyvern](https://github.com/Skyvern-AI/skyvern)
 - [testcafe](https://github.com/DevExpress/testcafe)
 - [ad-dke](https://github.com/DeekeScript/ad-dke)
 - [MultiPost-Extension](https://github.com/leaperone/MultiPost-Extension)
