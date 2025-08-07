@@ -54,6 +54,7 @@
 - [开源免费的 Browser Use](https://www.bilibili.com/video/BV1z5fJY3ELX/)
 
 #### 开源
+- [testcafe](https://github.com/DevExpress/testcafe)
 - [ad-dke](https://github.com/DeekeScript/ad-dke)
 - [MultiPost-Extension](https://github.com/leaperone/MultiPost-Extension)
 - [autojs-web-control-docker](https://github.com/HuaRongSAO/autojs-web-control-docker)
