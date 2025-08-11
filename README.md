@@ -16,6 +16,7 @@
 - [WeTest 云手机](https://wetest.qq.com/products/cloud-phone)
 
 #### 文章
+- [TestCraft - GPT支持的测试想法生成器和自动化测试生成器](https://cloud.tencent.com/developer/article/2465606)
 - [跨平台UI自动化-Appium](https://juejin.cn/post/7524744480499990574)
 - [APP 自动化（四）——本地 Docker 部署 Appium](https://juejin.cn/post/7393312386348957730)
 - [Auto.js 入门指南（六）多线程与异步操作](https://juejin.cn/post/7512453966522433551)
