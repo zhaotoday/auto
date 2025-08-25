@@ -10,6 +10,7 @@
 - [awesome-adb](https://github.com/mzlogin/awesome-adb)
 
 #### 云手机
+- [DuoPlus云手机](https://www.duoplus.net/zh-cn/)
 - [Unity 云真机](https://device.unity.cn/)
 - [华为云手机](https://www.huaweicloud.com/product/koophone.html)
 - [百度云手机](https://cloud.baidu.com/product/bac.html)
