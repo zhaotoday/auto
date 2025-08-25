@@ -14,6 +14,7 @@
 - [华为云手机](https://www.huaweicloud.com/product/koophone.html)
 - [百度云手机](https://cloud.baidu.com/product/bac.html)
 - [WeTest 云手机](https://wetest.qq.com/products/cloud-phone)
+- [小滴云手机](https://www.xdyun.com/)
 
 #### 文章
 - [TestCraft - GPT支持的测试想法生成器和自动化测试生成器](https://cloud.tencent.com/developer/article/2465606)
