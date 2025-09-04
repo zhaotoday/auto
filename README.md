@@ -24,6 +24,7 @@
 - [跨境云手机](https://phone.dxnt.com/)
 
 #### 文章
+- [AI驱动 WEB UI自动化---前端技术分享](https://juejin.cn/post/7532742033179803688)
 - [TestCraft - GPT支持的测试想法生成器和自动化测试生成器](https://cloud.tencent.com/developer/article/2465606)
 - [跨平台UI自动化-Appium](https://juejin.cn/post/7524744480499990574)
 - [APP 自动化（四）——本地 Docker 部署 Appium](https://juejin.cn/post/7393312386348957730)
