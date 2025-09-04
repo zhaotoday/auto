@@ -63,6 +63,7 @@
 - [开源免费的 Browser Use](https://www.bilibili.com/video/BV1z5fJY3ELX/)
 
 #### 开源
+- [escrcpy](https://github.com/viarotel-org/escrcpy)
 - [ws-scrcpy](https://github.com/NetrisTV/ws-scrcpy)
 - [wxauto](https://github.com/cluic/wxauto)
 - [skyvern](https://github.com/Skyvern-AI/skyvern)
