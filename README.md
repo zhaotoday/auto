@@ -22,6 +22,7 @@
 - [WeTest 云手机](https://wetest.qq.com/products/cloud-phone)
 - [小滴云手机](https://www.xdyun.com/)
 - [跨境云手机](https://phone.dxnt.com/)
+- [geelark](https://www.geelark.com/zh/)
 
 #### 文章
 - [AI驱动 WEB UI自动化---前端技术分享](https://juejin.cn/post/7532742033179803688)
