@@ -26,6 +26,7 @@
 - [星界云手机](https://cp.chinac.com/)
 
 #### 文章
+- [跨境社媒运营必学装X技能，五分钟搞定云手机矩阵部署](https://juejin.cn/post/7454092021516451890)
 - [AI驱动 WEB UI自动化---前端技术分享](https://juejin.cn/post/7532742033179803688)
 - [TestCraft - GPT支持的测试想法生成器和自动化测试生成器](https://cloud.tencent.com/developer/article/2465606)
 - [跨平台UI自动化-Appium](https://juejin.cn/post/7524744480499990574)
