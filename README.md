@@ -12,6 +12,7 @@
 
 #### 网址
 - [云手机博客](https://www.bitbrowser.cn/cloud-phone-blog)
+- [海外云手机大全](https://www.dxnt.com/phone.html)
 
 #### 云手机
 - [DuoPlus云手机](https://www.duoplus.net/zh-cn/)
