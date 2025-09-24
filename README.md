@@ -25,7 +25,8 @@
 - [跨境云手机](https://phone.dxnt.com/)
 - [geelark](https://www.geelark.com/zh/)
 - [星界云手机](https://cp.chinac.com/)
-- [vmoscloud](https://cloud.vmoscloud.com/) 
+- [vmoscloud](https://cloud.vmoscloud.com/)
+- [tkaio](https://www.tkaio.com/)
 
 #### 文章
 - [跨境社媒运营必学装X技能，五分钟搞定云手机矩阵部署](https://juejin.cn/post/7454092021516451890)
