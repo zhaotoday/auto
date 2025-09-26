@@ -31,6 +31,7 @@
 - [tkaio](https://www.tkaio.com/)
 
 #### 文章
+- [我做了套小红书一键发布系统，运营小姐姐说她不想离开我了](https://juejin.cn/post/7552489208804491316)
 - [跨境社媒运营必学装X技能，五分钟搞定云手机矩阵部署](https://juejin.cn/post/7454092021516451890)
 - [AI驱动 WEB UI自动化---前端技术分享](https://juejin.cn/post/7532742033179803688)
 - [TestCraft - GPT支持的测试想法生成器和自动化测试生成器](https://cloud.tencent.com/developer/article/2465606)
