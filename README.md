@@ -73,6 +73,7 @@
 - [开源免费的 Browser Use](https://www.bilibili.com/video/BV1z5fJY3ELX/)
 
 #### 开源
+- [autox-release](https://github.com/spider-ios/autox-release)
 - [telegram-tt](https://github.com/Ajaxy/telegram-tt)
 - [gramjs](https://github.com/gram-js/gramjs)
 - [escrcpy](https://github.com/viarotel-org/escrcpy)
