@@ -126,6 +126,7 @@
 - [aya](https://aya.liriliri.io/zh/)
 
 #### 竞品
+- [AutoX](https://github.com/autox-community/AutoX)
 - [AutoJs6](https://github.com/SuperMonster003/AutoJs6)
 - [Auto.js](https://github.com/TonyJiangWJ/Auto.js)
 - [Auto.js Pro](https://www.wuyunai.com/docs/)
