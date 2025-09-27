@@ -15,6 +15,7 @@
 - [海外云手机大全](https://www.dxnt.com/phone.html)
 
 #### 云手机
+- [红手指](https://zh.cloudemulator.net/)
 - [moimobi](https://www.moimobi.com/zh)
 - [火山引擎云手机](https://www.volcengine.com/product/ACEP)
 - [DuoPlus云手机](https://www.duoplus.net/zh-cn/)
