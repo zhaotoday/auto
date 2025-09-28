@@ -15,6 +15,7 @@
 - [海外云手机大全](https://www.dxnt.com/phone.html)
 
 #### 云手机
+- [蓝精灵](https://www.hippocloudphone.com/)
 - [raksmart](https://cn.raksmart.com/privatea/cloudphone.html)
 - [红手指](https://zh.cloudemulator.net/)
 - [moimobi](https://www.moimobi.com/zh)
