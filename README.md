@@ -15,6 +15,7 @@
 - [海外云手机大全](https://www.dxnt.com/phone.html)
 
 #### 云手机
+- [网速边缘云手机](https://www.wangsu.com/document/ephone/what-is-ephone)
 - [蓝精灵](https://www.hippocloudphone.com/)
 - [raksmart](https://cn.raksmart.com/privatea/cloudphone.html)
 - [红手指](https://zh.cloudemulator.net/)
