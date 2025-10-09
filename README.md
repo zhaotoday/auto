@@ -41,6 +41,7 @@
 - [矩媒](https://www.jumei.ai/)
 - [星盘](https://www.xingpanerp.com/index.html)
 - [智云控](http://www.zh-auto.org/)
+- [BIAI云控](https://www.biaibiai.com/index.html)
 
 #### 文章
 - [我做了套小红书一键发布系统，运营小姐姐说她不想离开我了](https://juejin.cn/post/7552489208804491316)
