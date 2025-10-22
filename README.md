@@ -140,6 +140,7 @@
 - [adb_kit](https://github.com/nightmare-space/adb_kit)
 - [genymotion](https://www.genymotion.com/)
 - [aya](https://aya.liriliri.io/zh/)
+- [Apktool](https://apktool.org/)
 
 #### 竞品
 - [AutoX](https://github.com/autox-community/AutoX)
