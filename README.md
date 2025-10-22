@@ -88,6 +88,7 @@
 - [开源免费的 Browser Use](https://www.bilibili.com/video/BV1z5fJY3ELX/)
 
 #### 开源
+- [robotjs](https://github.com/hurdlegroup/robotjs)
 - [appium-device-farm](https://github.com/AppiumTestDistribution/appium-device-farm)
 - [node-minicap](https://github.com/DeviceFarmer/node-minicap)
 - [appium-boilerplate](https://github.com/webdriverio/appium-boilerplate)
