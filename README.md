@@ -141,6 +141,7 @@
 - [genymotion](https://www.genymotion.com/)
 - [aya](https://aya.liriliri.io/zh/)
 - [Apktool](https://apktool.org/)
+- [adbkit-apkreader](https://github.com/DeviceFarmer/adbkit-apkreader)
 
 #### 竞品
 - [AutoX](https://github.com/autox-community/AutoX)
