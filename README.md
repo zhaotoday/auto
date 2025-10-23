@@ -171,6 +171,7 @@
 - [纳基AI](https://www.naaigc.com/)
 
 #### 其他
+- [Pywinauto](https://www.kancloud.cn/gnefnuy/pywinauto_doc)
 - [appium-adb](https://github.com/appium/appium-adb)
 - [YADB](https://github.com/ysbing/YADB)
 - [ya-webadb](https://github.com/yume-chan/ya-webadb)
