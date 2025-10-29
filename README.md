@@ -88,6 +88,7 @@
 - [开源免费的 Browser Use](https://www.bilibili.com/video/BV1z5fJY3ELX/)
 
 #### 开源
+- [WinAppDriver](https://github.com/microsoft/WinAppDriver)
 - [Detox](https://github.com/wix/Detox)
 - [robotjs](https://github.com/hurdlegroup/robotjs)
 - [appium-device-farm](https://github.com/AppiumTestDistribution/appium-device-farm)
