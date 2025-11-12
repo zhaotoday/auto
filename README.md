@@ -90,6 +90,7 @@
 - [开源免费的 Browser Use](https://www.bilibili.com/video/BV1z5fJY3ELX/)
 
 #### 开源
+- [TikTok-Live-Connector](https://github.com/zerodytrash/TikTok-Live-Connector)
 - [WinAppDriver](https://github.com/microsoft/WinAppDriver)
 - [Detox](https://github.com/wix/Detox)
 - [robotjs](https://github.com/hurdlegroup/robotjs)
