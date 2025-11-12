@@ -90,6 +90,7 @@
 - [开源免费的 Browser Use](https://www.bilibili.com/video/BV1z5fJY3ELX/)
 
 #### 开源
+- [tiktok-live-recorder](https://github.com/Michele0303/tiktok-live-recorder)
 - [tiktok-uploader](https://github.com/wkaisertexas/tiktok-uploader)
 - [TikTok-Api](https://github.com/davidteather/TikTok-Api)
 - [tiktok-signature](https://github.com/carcabot/tiktok-signature)
