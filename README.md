@@ -91,6 +91,7 @@
 - [开源免费的 Browser Use](https://www.bilibili.com/video/BV1z5fJY3ELX/)
 
 #### 开源
+- [Autojs_Rhino_Dex](https://github.com/autox-community/Autojs_Rhino_Dex)
 - [Android-Auto-Api](https://github.com/Krosxx/Android-Auto-Api)
 - [tiktok-bot](https://github.com/somiibo/tiktok-bot)
 - [Tiktok-Booster](https://github.com/Sneezedip/Tiktok-Booster)
