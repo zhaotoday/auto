@@ -90,6 +90,7 @@
 - [开源免费的 Browser Use](https://www.bilibili.com/video/BV1z5fJY3ELX/)
 
 #### 开源
+- [Android-Auto-Api](https://github.com/Krosxx/Android-Auto-Api)
 - [tiktok-bot](https://github.com/somiibo/tiktok-bot)
 - [Tiktok-Booster](https://github.com/Sneezedip/Tiktok-Booster)
 - [tiktok-live-recorder](https://github.com/Michele0303/tiktok-live-recorder)
