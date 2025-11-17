@@ -161,6 +161,7 @@
 - [aya](https://aya.liriliri.io/zh/)
 - [Apktool](https://apktool.org/)
 - [adbkit-apkreader](https://github.com/DeviceFarmer/adbkit-apkreader)
+- [inspector.appiumpro.com](https://inspector.appiumpro.com/)
 
 #### 竞品
 - [AutoX](https://github.com/aiselp/AutoX)
