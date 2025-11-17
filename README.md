@@ -179,6 +179,7 @@
 - [AScript](https://www.ascript.cn/)
 - [smartcloudscript](https://smartcloudscript.com/)
 - [Autoxjs_v6_ozobi](https://github.com/ozobiozobi/Autoxjs_v6_ozobi)
+- [Macaca](https://macacajs.github.io/zh/)
 
 #### 产品
 - [deeke](https://deeke.cn/)
