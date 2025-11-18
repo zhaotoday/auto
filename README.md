@@ -16,6 +16,7 @@
 - [tangoapp](https://app.tangoapp.dev/)
 
 #### 云手机
+- [腾讯云手机 CVP](https://cloud.tencent.com/product/cvp)
 - [小算云](https://www.armcloud.net/)
 - [网速边缘云手机](https://www.wangsu.com/document/ephone/what-is-ephone)
 - [蓝精灵](https://www.hippocloudphone.com/)
