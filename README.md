@@ -167,6 +167,7 @@
 #### 竞品
 - [AutoX](https://github.com/aiselp/AutoX)
 - [AutoX](https://github.com/autox-community/AutoX)
+- [AutoX](https://github.com/automan-bot/AutoX)
 - [AutoJs6](https://github.com/SuperMonster003/AutoJs6)
 - [Auto.js](https://github.com/TonyJiangWJ/Auto.js)
 - [Auto.js Pro](https://www.wuyunai.com/docs/)
