@@ -184,6 +184,7 @@
 - [smartcloudscript](https://smartcloudscript.com/)
 - [Autoxjs_v6_ozobi](https://github.com/ozobiozobi/Autoxjs_v6_ozobi)
 - [Macaca](https://macacajs.github.io/zh/)
+- [触动精灵](https://www.touchsprite.com/)
 
 #### 产品
 - [deeke](https://deeke.cn/)
