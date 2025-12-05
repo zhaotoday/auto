@@ -93,6 +93,7 @@
 - [开源免费的 Browser Use](https://www.bilibili.com/video/BV1z5fJY3ELX/)
 
 #### 开源
+- [WeChatRobot](https://github.com/TonyChen56/WeChatRobot)
 - [FlowBot](https://github.com/xlrpa/FlowBot)
 - [rich-auto-ui](https://github.com/hubeishanling/rich-auto-ui)
 - [robotframework-appiumlibrary](https://github.com/serhatbolsu/robotframework-appiumlibrary)
