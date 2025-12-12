@@ -15,6 +15,9 @@
 - [海外云手机大全](https://www.dxnt.com/phone.html)
 - [tangoapp](https://app.tangoapp.dev/)
 
+#### 产品
+- [multipost](https://multipost.app/)
+
 #### 云手机
 - [腾讯云手机 CVP](https://cloud.tencent.com/product/cvp)
 - [小算云](https://www.armcloud.net/)
