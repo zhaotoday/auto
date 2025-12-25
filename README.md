@@ -97,6 +97,7 @@
 - [开源免费的 Browser Use](https://www.bilibili.com/video/BV1z5fJY3ELX/)
 
 #### 开源
+- [automa](https://github.com/AutomaApp/automa)
 - [stagehand](https://github.com/browserbase/stagehand)
 - [robotjs](https://github.com/jitsi/robotjs)
 - [robotjs](https://github.com/superkidsXin/robotjs)
