@@ -97,6 +97,7 @@
 - [开源免费的 Browser Use](https://www.bilibili.com/video/BV1z5fJY3ELX/)
 
 #### 开源
+- [roubao](https://github.com/Turbo1123/roubao)
 - [BrowserOS](https://github.com/browseros-ai/BrowserOS)
 - [automa](https://github.com/AutomaApp/automa)
 - [stagehand](https://github.com/browserbase/stagehand)
