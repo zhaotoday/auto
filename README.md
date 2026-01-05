@@ -98,6 +98,7 @@
 - [开源免费的 Browser Use](https://www.bilibili.com/video/BV1z5fJY3ELX/)
 
 #### 开源
+- [IMAI.WORK-AI-Phone](https://github.com/imaiwork/IMAI.WORK-AI-Phone)
 - [xiaozhi-AutoGLM-mcp](https://github.com/xinnan-tech/xiaozhi-AutoGLM-mcp)
 - [android-use](https://github.com/languse-ai/android-use)
 - [CloudPhone](https://github.com/lloves/CloudPhone)
