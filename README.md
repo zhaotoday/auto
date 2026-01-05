@@ -97,6 +97,7 @@
 - [开源免费的 Browser Use](https://www.bilibili.com/video/BV1z5fJY3ELX/)
 
 #### 开源
+- [sandroidx_lite](https://github.com/hyf3513OneGO/sandroidx_lite)
 - [autojsDemo](https://github.com/snailuncle/autojsDemo)
 - [roubao](https://github.com/Turbo1123/roubao)
 - [BrowserOS](https://github.com/browseros-ai/BrowserOS)
