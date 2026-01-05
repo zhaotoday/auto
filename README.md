@@ -98,6 +98,7 @@
 - [开源免费的 Browser Use](https://www.bilibili.com/video/BV1z5fJY3ELX/)
 
 #### 开源
+- [xiaozhi-AutoGLM-mcp](https://github.com/xinnan-tech/xiaozhi-AutoGLM-mcp)
 - [android-use](https://github.com/languse-ai/android-use)
 - [CloudPhone](https://github.com/lloves/CloudPhone)
 - [sandroidx_lite](https://github.com/hyf3513OneGO/sandroidx_lite)
