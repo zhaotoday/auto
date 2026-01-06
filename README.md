@@ -97,6 +97,9 @@
 - [RPA脚本开发 机器人流程自动化 自动化办公脚本开发实战](https://www.bilibili.com/video/BV1Hj411j7ni)
 - [开源免费的 Browser Use](https://www.bilibili.com/video/BV1z5fJY3ELX/)
 
+#### OCR
+- [eSearch-OCR](https://github.com/xushengfeng/eSearch-OCR)
+
 #### 开源
 - [IMAI.WORK-AI-Phone](https://github.com/imaiwork/IMAI.WORK-AI-Phone)
 - [xiaozhi-AutoGLM-mcp](https://github.com/xinnan-tech/xiaozhi-AutoGLM-mcp)
