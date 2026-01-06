@@ -102,6 +102,7 @@
 - [PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR)
 - [eSearch](https://github.com/xushengfeng/eSearch)
 - [eSearch-OCR](https://github.com/xushengfeng/eSearch-OCR)
+- [OnnxOCR](https://github.com/jingsongliujing/OnnxOCR)
 
 #### 开源
 - [IMAI.WORK-AI-Phone](https://github.com/imaiwork/IMAI.WORK-AI-Phone)
