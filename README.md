@@ -98,6 +98,7 @@
 - [开源免费的 Browser Use](https://www.bilibili.com/video/BV1z5fJY3ELX/)
 
 #### OCR
+- [PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR)
 - [eSearch](https://github.com/xushengfeng/eSearch)
 - [eSearch-OCR](https://github.com/xushengfeng/eSearch-OCR)
 
