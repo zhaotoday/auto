@@ -105,6 +105,7 @@
 - [eSearch](https://github.com/xushengfeng/eSearch)
 - [eSearch-OCR](https://github.com/xushengfeng/eSearch-OCR)
 - [OnnxOCR](https://github.com/jingsongliujing/OnnxOCR)
+- [推荐 10 个受欢迎的 OCR 开源项目](https://juejin.cn/post/7483409820243689511)
 
 #### 开源
 - [wechaty](https://github.com/wechaty/wechaty)
