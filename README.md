@@ -107,6 +107,7 @@
 - [OnnxOCR](https://github.com/jingsongliujing/OnnxOCR)
 
 #### 开源
+- [wechaty](https://github.com/wechaty/wechaty)
 - [IMAI.WORK-AI-Phone](https://github.com/imaiwork/IMAI.WORK-AI-Phone)
 - [xiaozhi-AutoGLM-mcp](https://github.com/xinnan-tech/xiaozhi-AutoGLM-mcp)
 - [android-use](https://github.com/languse-ai/android-use)
