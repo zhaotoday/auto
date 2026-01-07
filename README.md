@@ -108,6 +108,7 @@
 - [推荐 10 个受欢迎的 OCR 开源项目](https://juejin.cn/post/7483409820243689511)
 
 #### 开源
+- [page-eyes-agent](https://github.com/tencentmusic/page-eyes-agent)
 - [baodou_AI](https://github.com/mini-yifan/baodou_AI)
 - [wechaty](https://github.com/wechaty/wechaty)
 - [IMAI.WORK-AI-Phone](https://github.com/imaiwork/IMAI.WORK-AI-Phone)
