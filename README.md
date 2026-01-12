@@ -106,6 +106,7 @@
 - [eSearch-OCR](https://github.com/xushengfeng/eSearch-OCR)
 - [OnnxOCR](https://github.com/jingsongliujing/OnnxOCR)
 - [推荐 10 个受欢迎的 OCR 开源项目](https://juejin.cn/post/7483409820243689511)
+- [Umi-OCR](https://github.com/hiroi-sora/Umi-OCR)
 
 #### 开源
 - [drissionpage](https://drissionpage.cn/)
