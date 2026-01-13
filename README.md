@@ -109,6 +109,7 @@
 - [Umi-OCR](https://github.com/hiroi-sora/Umi-OCR)
 
 #### 开源
+- [autoglm.js](https://github.com/FliPPeDround/autoglm.js)
 - [drissionpage](https://drissionpage.cn/)
 - [page-eyes-agent](https://github.com/tencentmusic/page-eyes-agent)
 - [baodou_AI](https://github.com/mini-yifan/baodou_AI)
