@@ -18,6 +18,7 @@
 #### 产品
 - [metascreen](https://metascreen.cn/)
 - [multipost](https://multipost.app/)
+- [termux](https://termux.dev/cn/)
 
 #### 云手机
 - [腾讯云手机 CVP](https://cloud.tencent.com/product/cvp)
