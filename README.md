@@ -111,6 +111,7 @@
 - [MonkeyOCR](https://github.com/Yuliang-Liu/MonkeyOCR)
 
 #### 开源
+- [vphone-cli](https://github.com/Lakr233/vphone-cli)
 - [phone-mcp](https://github.com/hao-cyber/phone-mcp)
 - [autoglm.js](https://github.com/FliPPeDround/autoglm.js)
 - [drissionpage](https://drissionpage.cn/)
