@@ -111,6 +111,7 @@
 - [MonkeyOCR](https://github.com/Yuliang-Liu/MonkeyOCR)
 
 #### 开源
+- [ghost-cursor](https://github.com/Xetera/ghost-cursor)
 - [vphone-cli](https://github.com/Lakr233/vphone-cli)
 - [phone-mcp](https://github.com/hao-cyber/phone-mcp)
 - [autoglm.js](https://github.com/FliPPeDround/autoglm.js)
