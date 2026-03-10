@@ -111,6 +111,7 @@
 - [MonkeyOCR](https://github.com/Yuliang-Liu/MonkeyOCR)
 
 #### 开源
+- [vphone-aio](https://github.com/34306/vphone-aio)
 - [ghost-cursor](https://github.com/Xetera/ghost-cursor)
 - [vphone-cli](https://github.com/Lakr233/vphone-cli)
 - [phone-mcp](https://github.com/hao-cyber/phone-mcp)
