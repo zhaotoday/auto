@@ -53,6 +53,7 @@
 - [全能推](https://www.pushomni.com/)
 
 #### 文章
+- [有什么方法可以通过adb去运行autojs6脚本吗？](https://github.com/SuperMonster003/AutoJs6/issues/477)
 - [wxhook + nodeJS实现对微信数据的整合](https://juejin.cn/post/7575413146921762831)
 - [5 个 AI 操纵手机的 GitHub 项目，太强了](https://juejin.cn/post/7577031454585454619)
 - [🔥PC端自动化测试实战教程-1-pywinauto 环境搭建（详细教程）](https://juejin.cn/post/7491528012967247884)
