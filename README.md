@@ -113,6 +113,7 @@
 - [MonkeyOCR](https://github.com/Yuliang-Liu/MonkeyOCR)
 
 #### 开源
+- [FlaUI](https://github.com/FlaUI/FlaUI)
 - [gkd-kit/inspect](https://github.com/gkd-kit/inspect)
 - [Auto.js](https://github.com/TonyJiangWJ/Auto.js)
 - [vphone-aio](https://github.com/34306/vphone-aio)
