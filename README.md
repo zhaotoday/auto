@@ -16,6 +16,7 @@
 - [tangoapp](https://app.tangoapp.dev/)
 
 #### 产品
+- [FireRPA](https://device-farm.com/)
 - [metascreen](https://metascreen.cn/)
 - [multipost](https://multipost.app/)
 - [termux](https://termux.dev/cn/)
