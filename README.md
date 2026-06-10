@@ -22,6 +22,7 @@
 - [termux](https://termux.dev/cn/)
 
 #### 云手机
+- [foxphone](https://www.foxphone.com/zh/)
 - [tobphone](https://www.tobphone.com/)
 - [appetize](https://appetize.io/)
 - [腾讯云手机 CVP](https://cloud.tencent.com/product/cvp)
