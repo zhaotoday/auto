@@ -115,6 +115,7 @@
 - [MonkeyOCR](https://github.com/Yuliang-Liu/MonkeyOCR)
 
 #### 开源
+- [ScrcpyOverWebRTC](https://github.com/hqw700/ScrcpyOverWebRTC)
 - [Open-AutoGLM](https://github.com/zai-org/Open-AutoGLM)
 - [FlaUI](https://github.com/FlaUI/FlaUI)
 - [gkd-kit/inspect](https://github.com/gkd-kit/inspect)
