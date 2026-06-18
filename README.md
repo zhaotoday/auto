@@ -116,6 +116,7 @@
 - [MonkeyOCR](https://github.com/Yuliang-Liu/MonkeyOCR)
 
 #### 开源
+- [terminator](https://github.com/mediar-ai/terminator)
 - [ScrcpyOverWebRTC](https://github.com/hqw700/ScrcpyOverWebRTC)
 - [Open-AutoGLM](https://github.com/zai-org/Open-AutoGLM)
 - [FlaUI](https://github.com/FlaUI/FlaUI)
