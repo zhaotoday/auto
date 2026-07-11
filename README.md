@@ -119,6 +119,7 @@
 - [MonkeyOCR](https://github.com/Yuliang-Liu/MonkeyOCR)
 
 #### 开源
+- [redroid-doc](https://github.com/remote-android/redroid-doc)
 - [vmos-dev](https://github.com/vmos-dev)
 - [terminator](https://github.com/mediar-ai/terminator)
 - [ScrcpyOverWebRTC](https://github.com/hqw700/ScrcpyOverWebRTC)
