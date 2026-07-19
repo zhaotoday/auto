@@ -22,6 +22,7 @@
 - [termux](https://termux.dev/cn/)
 
 #### 云手机
+- [geenod](https://www.geenod.cn/zh-cn)
 - [秒租云手机](https://www.mangoysj.com/)
 - [迅流云手机](https://www.aixunliu.com/)
 - [傲晨云手机](https://www.aochenyun.com/index.html)
