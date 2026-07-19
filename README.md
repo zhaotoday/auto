@@ -120,6 +120,7 @@
 - [MonkeyOCR](https://github.com/Yuliang-Liu/MonkeyOCR)
 
 #### 开源
+- [plain-app](https://github.com/plainhub/plain-app)
 - [agent-device](https://github.com/callstack/agent-device)
 - [redroid-doc](https://github.com/remote-android/redroid-doc)
 - [vmos-dev](https://github.com/vmos-dev)
