@@ -124,6 +124,7 @@
 - [MonkeyOCR](https://github.com/Yuliang-Liu/MonkeyOCR)
 
 #### 开源
+- [Cloud-Phone](https://github.com/yiyifred/Cloud-Phone)
 - [MobiAgent](https://github.com/IPADS-SAI/MobiAgent)
 - [opencyvis-phone](https://github.com/opencyvis/opencyvis-phone)
 - [sim-use](https://github.com/lycorp-jp/sim-use)
