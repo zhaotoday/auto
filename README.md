@@ -9,6 +9,7 @@
 - [AndroidDevTools](https://github.com/inferjay/AndroidDevTools)
 - [awesome-adb](https://github.com/mzlogin/awesome-adb)
 - [cuketest](https://www.cuketest.com/)
+- [feicong-course](https://github.com/feicong/feicong-course)
 
 #### 网址
 - [云手机博客](https://www.bitbrowser.cn/cloud-phone-blog)
