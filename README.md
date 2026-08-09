@@ -125,6 +125,7 @@
 - [MonkeyOCR](https://github.com/Yuliang-Liu/MonkeyOCR)
 
 #### 开源
+- [phone-harness](https://github.com/ShawnPana/phone-harness)
 - [termux-app](https://github.com/termux/termux-app)
 - [Cloud-Phone](https://github.com/yiyifred/Cloud-Phone)
 - [MobiAgent](https://github.com/IPADS-SAI/MobiAgent)
