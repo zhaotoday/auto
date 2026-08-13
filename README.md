@@ -23,6 +23,7 @@
 - [termux](https://termux.dev/cn/)
 
 #### 云手机
+- [雷电云手机](https://www.ldcloud.net/ch)
 - [映界云](https://www.yingjieyun.com/)
 - [geenod](https://www.geenod.cn/zh-cn)
 - [秒租云手机](https://www.mangoysj.com/)
