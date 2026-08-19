@@ -126,6 +126,7 @@
 - [MonkeyOCR](https://github.com/Yuliang-Liu/MonkeyOCR)
 
 #### 开源
+- [win-auto](https://github.com/mihailDamchevski/win-auto)
 - [keysender](https://github.com/Krombik/keysender)
 - [MatrixMedia](https://hanliang97.github.io/MatrixMedia/)
 - [phone-harness](https://github.com/ShawnPana/phone-harness)
