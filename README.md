@@ -126,6 +126,7 @@
 - [MonkeyOCR](https://github.com/Yuliang-Liu/MonkeyOCR)
 
 #### 开源
+- [mechatron](https://github.com/p120ph37/mechatron)
 - [spotterjs](https://github.com/yinpeilin/spotterjs)
 - [EasyTouch](https://github.com/whuanle/EasyTouch)
 - [win-auto](https://github.com/mihailDamchevski/win-auto)
