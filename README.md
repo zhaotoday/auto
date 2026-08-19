@@ -126,6 +126,7 @@
 - [MonkeyOCR](https://github.com/Yuliang-Liu/MonkeyOCR)
 
 #### 开源
+- [keysender](https://github.com/Krombik/keysender)
 - [MatrixMedia](https://hanliang97.github.io/MatrixMedia/)
 - [phone-harness](https://github.com/ShawnPana/phone-harness)
 - [termux-app](https://github.com/termux/termux-app)
