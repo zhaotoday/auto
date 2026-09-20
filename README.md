@@ -127,6 +127,8 @@
 - [MonkeyOCR](https://github.com/Yuliang-Liu/MonkeyOCR)
 
 #### 开源
+- [open-browser-use](https://github.com/iFurySt/open-browser-use)
+- [open-codex-computer-use](https://github.com/iFurySt/open-codex-computer-use)
 - [artemis](https://github.com/google/artemis)
 - [mechatron](https://github.com/p120ph37/mechatron)
 - [spotterjs](https://github.com/yinpeilin/spotterjs)
