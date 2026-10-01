@@ -127,6 +127,7 @@
 - [MonkeyOCR](https://github.com/Yuliang-Liu/MonkeyOCR)
 
 #### 开源
+- [awesome-android-root](https://github.com/awesome-android-root/awesome-android-root)
 - [open-browser-use](https://github.com/iFurySt/open-browser-use)
 - [open-codex-computer-use](https://github.com/iFurySt/open-codex-computer-use)
 - [artemis](https://github.com/google/artemis)
