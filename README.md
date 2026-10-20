@@ -127,6 +127,7 @@
 - [MonkeyOCR](https://github.com/Yuliang-Liu/MonkeyOCR)
 
 #### 开源
+- [AutoGod](https://github.com/kodesh-talent/AutoGod)
 - [OpenGUI](https://github.com/Core-Mate/OpenGUI)
 - [esp32-iphone-agent](https://github.com/onehumanbeing/esp32-iphone-agent)
 - [iPhone-use](https://github.com/zhongerxin/iPhone-use)
